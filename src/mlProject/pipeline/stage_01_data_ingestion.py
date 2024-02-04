@@ -1,3 +1,5 @@
+
+31 lines (22 loc) · 875 Bytes
 from mlProject.config.configuration import ConfigurationManager
 from mlProject.components.data_ingestion import DataIngestion
 from mlProject import logger

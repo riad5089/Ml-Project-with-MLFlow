@@ -1,5 +1,10 @@
 from mlProject import logger
+from mlProject.entity.config_entity import DataIngestionConfig
+
 from mlProject.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
+
+
+
 
 
 STAGE_NAME = "Data Ingestion stage"
